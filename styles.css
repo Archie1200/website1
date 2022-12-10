@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.section{
+    height: 30%;
+    width: 60%;
+    margin-left: 130px;
+}
+.section img{
+    margin-top: 30px;
+    border-radius: 10px;
+}
+body{
+    background-image: linear-gradient(to right, grey,rgb(235, 235, 101));
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 250vh;
+}
+.box{
+    margin-top: 0;
+    width: 93vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 64px;
+    border-radius: 10px;
+}
+.part1{
+    width: 60%;
+    height: 80%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.part2{
+    width: 30%;
+    height: 100%;
+    background-image: linear-gradient(to right,rgb(204, 204, 125),rgb(235, 235, 101)) ;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius:10px ;
+    margin-top: 115px;
+    margin-bottom: 0;
+}
+.a{
+    width: 80%;
+    background-color:white;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+   
+}
+textarea{
+    height: 80%;
+    width: 90%;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 1.2em;
+}
+h2{
+    margin-left: 20px;
+    margin-top: 6px;
+}
+.ldiv{
+    background-color: rgb(184, 178, 178);
+    height: 28px;
+    margin-bottom: 20px;
+}
+label{
+    font-size: 1.3em;
+     margin-left: 5px;
+}
+input{
+    font-size: 1.2em;
+    margin-left: 5px;
+}
+.box1{
+    height: 17%;
+}
+.box2{
+    height: 20%;
+}
+.box3,.box4{
+    height: 23%;
+}
+.box5{
+    height: 15%;
+}
+button{
+    padding: 4px;
+    background-color: rgb(177, 168, 168);
+    border-radius: 5px;
+}
+p{
+    color: blue;
+    text-decoration: none;
+    margin-left: 5px;
+}
+p:hover{
+    cursor: pointer;
+}
+h1{
+    color: white;
+    margin-left: 400px;
+    margin-top: 20px;
+}
